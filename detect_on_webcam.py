@@ -3,7 +3,7 @@
     Test RateMe on video stream
 """
 import cv2
-from RateMe.utils import RateMe, CAM
+from rateme.utils import RateMe, CAM
 import argparse
 
 
