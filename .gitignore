@@ -3,3 +3,5 @@ __pycache__
 .mypy_cache
 .ipynb_checkpoints
 *.swp
+create_wheel
+*.whl

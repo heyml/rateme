@@ -1,5 +1,9 @@
 # Rating system using computer vision
 
+## Installation
+
+`pip3 install rateme`
+
 ## Introduction
 
 RateMe is a neural network that allows you to recognize gestures of thumb up and thumb down.
