@@ -29,13 +29,9 @@ For example, using Rate Me you can:
 
 ### Dependencies
 
-`opencv-contrib-python`, `numpy`
++ `opencv-python`, `numpy`;
 
-`matplotlib`, `jupyter` for jupyter-notebook
-
-```bash
-pip3 install opencv-contrib-python numpy
-```
++ `matplotlib`, `jupyter` for jupyter-notebook
 
 ### Usage
 
