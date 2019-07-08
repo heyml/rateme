@@ -6,6 +6,8 @@
 
 ## Introduction
 
+<a href="https://heyml.com"><img align="left" height="60" src="gifs/heyml.png"></a><br><br>
+
 RateMe is a neural network that allows you to recognize gestures of thumb up and thumb down.
 The algorithm can be embedded in your project and automate the process of evaluation of something or someone.
 
@@ -60,7 +62,7 @@ It's accuracy of thumb up/down gesture recognition is calculated as mean average
 The neural network has been trained on ~3K images (taken from different angles photos of people showing their thumbs or not).
 Images were labeled using the [labelImg](https://github.com/tzutalin/labelImg) program.
 
-Class labels: 0 -- "Like (thumb up)", 1 -- "Dislike (thumb down)"
+Return values: `"like"`, `"dislike"`, `None`
 
 ### Speed
 
