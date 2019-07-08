@@ -1,12 +1,6 @@
 # Rating system using computer vision
 
-## Installation
-
-`pip3 install rateme`
-
-## Introduction
-
-<a href="https://heyml.com"><img align="left" height="60" src="gifs/heyml.png"></a><br><br>
+<a href="https://heyml.com"><img align="left" height="60" src="gifs/heyml.png"></a><br><br><br>
 
 RateMe is a neural network that allows you to recognize gestures of thumb up and thumb down.
 The algorithm can be embedded in your project and automate the process of evaluation of something or someone.
@@ -34,6 +28,10 @@ For example, using Rate Me you can:
 + `opencv-python`, `numpy`;
 
 + `matplotlib`, `jupyter` for jupyter-notebook
+
+### Installation
+
+`pip3 install rateme`
 
 ### Usage
 
