@@ -55,7 +55,7 @@ label = net.predict(img)
 
 RateMe is based on [tiny-YOLOv3](https://pjreddie.com/darknet/yolo/) architecture. 
 
-It's accuracy of thumb up/down gesture recognition is calculated as mean average precision (mAP@0.25) = 0.851941, or 85.19%; average IoU = 73.89%
+It's accuracy of thumb up/down gesture recognition is calculated as mean average precision (mAP@0.5) = 0.851941, or 85.19%; average IoU = 73.89%
 
 The neural network has been trained on ~3K images (taken from different angles photos of people showing their thumbs or not).
 Images were labeled using the [labelImg](https://github.com/tzutalin/labelImg) program.
